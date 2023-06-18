@@ -5,4 +5,5 @@ public class calcule {
     public static int drop(int a,int b){
         return a/b;
     }
+    public static int proizv(int a,int b){return a*b;}
 }
